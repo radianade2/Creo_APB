@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131101674283",
+    "project_id": "creo-7b668",
+    "storage_bucket": "creo-7b668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131101674283:android:05821260614bf6bde1d36e",
+        "android_client_info": {
+          "package_name": "com.example.creo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JFd5Xeh-CXearNCu--r0hOlY2dDJHlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
